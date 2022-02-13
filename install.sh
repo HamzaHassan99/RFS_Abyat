@@ -5,18 +5,18 @@
 ### Set the proper source and destination directory location
 
 
-SOURCE_DIR="/home/pi/Downloads/rfs-build/Fonts/"
+SOURCE_DIR="/home/pi/RFS_ABYAT/Fonts/"
 DEST_DIR="/home/pi/Scripts/Fonts/opentype/"
 
-SOURCE_DIR3="/home/pi/Downloads/rfs-build/autostart/"
+SOURCE_DIR3="/home/pi/RFS_ABYAT/autostart/"
 DEST_DIR3="/home/pi/.config/autostart/"
 
 
-SOURCE_DIR2="/home/pi/Downloads/rfs-build/dist/"
+SOURCE_DIR2="/home/pi/RFS_ABYAT/dist/"
 DEST_DIR2="/home/pi/"
 
 
-SOURCE_DIR1="/home/pi/Downloads/rfs-build/Image_Files/"
+SOURCE_DIR1="/home/pi/RFS_ABYAT/Image_Files/"
 DEST_DIR1="/home/pi/"
 
 TMP_FILE=/tmp/copyfileslist.txt
